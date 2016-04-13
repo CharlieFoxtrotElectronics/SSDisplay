@@ -1,0 +1,20 @@
+# Syntax Coloring Map
+
+# Datatypes (KEYWORD1) #
+########################
+SSDisplay	KEYWORD1
+
+# Methods and Functions (KEYWORD2) #
+####################################
+updateCurrent	KEYWORD2
+blankCurrent	KEYWORD2
+addDigit	KEYWORD2
+refreshAll	KEYWORD2
+refreshNext	KEYWORD2
+printDecInt	KEYWORD2
+printHexInt	KEYWORD2
+
+# Constants and Enums (LITERAL1) #
+##################################
+POSITIVE	LITERAL1
+NEGATIVE	LITERAL1
